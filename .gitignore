@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+outputs/*.csv
+outputs/*.png
+data/*.db
+.streamlit/
