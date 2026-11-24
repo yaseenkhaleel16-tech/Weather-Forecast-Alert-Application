@@ -66,3 +66,8 @@ Never upload `.env` or real private API keys. The `.gitignore` already ignores `
 
 ## Future improvements
 FastAPI endpoints, scheduled refresh, email/Telegram notifications, AQI, maps, multi-city tracking, database storage, and automated tests.
+
+<img width="1877" height="816" alt="picture 41" src="https://github.com/user-attachments/assets/a2b50b5a-1dc6-43f1-a809-cc4e9a619f52" />
+<img width="1883" height="962" alt="picture 42" src="https://github.com/user-attachments/assets/e1485b67-4030-4621-9a6a-027315cd4785" />
+
+
